@@ -1,0 +1,2 @@
+# littleTips
+tips for memory
